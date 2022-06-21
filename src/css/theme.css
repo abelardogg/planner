@@ -1,0 +1,11 @@
+body{
+    color: var(--secondary);
+    background: var(--main-bg);
+    min-height: 100vh;
+    padding: 15px;
+    font-family: 'Sen', sans-serif;
+}
+
+a, :active{color: var(--secondary); text-decoration: underline;}
+
+

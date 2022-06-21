@@ -2,7 +2,7 @@
 function Home() {
   return (
     <div id="pg-home">
-jopm
+        <h1>Home</h1>
     </div>
   );
 }
